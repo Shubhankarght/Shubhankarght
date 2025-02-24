@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhankar-mishra-174223253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhankar-mishra-174223253" height="30" width="40" /></a>
-<a href="https://fb.com/shubhankar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhankar mishra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/3sj_creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3sj_creation" height="30" width="40" /></a>
+<a href="https://fb.com/shubhan.shubha56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhan.shubha56" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@3sjcreation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@3sjcreation" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
